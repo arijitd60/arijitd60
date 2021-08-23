@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arijitd60
 - 👀 I’m interested in learning SQL and Python
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Tableau
 - 💞️ I’m looking to collaborate on coding and queries help & guide
 - 📫 How to reach me arijitd60@gmail.com
 
